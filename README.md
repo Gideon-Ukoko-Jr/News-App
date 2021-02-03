@@ -2,7 +2,9 @@
 An android news app built with Java on Android Studio which implements the JSON News API. The app allows the user to open, search and view news headlines with the accompanying details(News Agency, Author, Date and Headline Image) and to read them in a built in webview.
 
 Dependencies I used:
-implementation 'androidx.appcompat:appcompat:1.2.0'
+
+    //androidx, material and junit
+    implementation 'androidx.appcompat:appcompat:1.2.0'
     implementation 'com.google.android.material:material:1.2.1'
     implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
     testImplementation 'junit:junit:4.+'

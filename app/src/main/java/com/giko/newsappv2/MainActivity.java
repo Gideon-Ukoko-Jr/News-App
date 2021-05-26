@@ -25,7 +25,7 @@ import retrofit2.Response;
 public class MainActivity extends AppCompatActivity {
 
     //String API_KEY is the individual API key of your NewsAPI account
-    final String API_KEY = "Your API Key";
+    final String API_KEY = "4ce7ea50a81f4ec9b7f41456fa5b5fe3";
 
     RecyclerView recyclerView;
     SwipeRefreshLayout swipeRefreshLayout;
